@@ -15,6 +15,7 @@ imprimeTexto(soma());
 //três formas de ecrever as funções
 
 function soma(){
+    //outros códigos, mas a linha do return precisa ser a última linha do bloco da função
     return 2 + 2;
 }
 
